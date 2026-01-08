@@ -1,0 +1,47 @@
+# Dependencies
+node_modules/
+dist/
+dist-electron/
+release/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+*.log
+
+# Electron
+*.asar
+
+# Misc
+*.local
+.env
+.env.local
+.env.*.local
